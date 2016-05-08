@@ -1,1 +1,1 @@
-Desk Top create 的本地版本库 默认别名是否为 origin？
+Desk Top create 的本地版本库 默认别名是否为 origin？？
